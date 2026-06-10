@@ -1,6 +1,6 @@
 """
 distributions.py
-=================
+================= 
 TOPICS COVERED
 - Common probability distributions
 - Normal, Binomial, Poisson
