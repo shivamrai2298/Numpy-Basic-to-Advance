@@ -11,7 +11,7 @@ INTERVIEW QUESTIONS
 3. Where is normal distribution used in ML?
 4. What does lambda represent in Poisson?
 
-PRACTICE QUESTIONS
+PRACTICE QUESTIONS 
 1. Simulate coin toss using binomial
 2. Generate Poisson distributed data
 3. Compare mean of distributions
